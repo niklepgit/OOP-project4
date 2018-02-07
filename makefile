@@ -1,0 +1,1 @@
+javac main.java artifacts.java masterpiece.java paintings.java sculptures.java
