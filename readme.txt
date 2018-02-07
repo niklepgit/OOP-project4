@@ -1,5 +1,4 @@
 Λεπιδας Νικολαος
-sdi1600090
 
 Περιβαλλον αναπτυξης: Η ασκηση αναπτυχθηκε σε περιβαλλον linux (kali) και εχει δοκιμαστει επισης σε linux. Εχω φτιαξει ενα bash script με ονομα makefile που τρεχει ετσι: ./makefile και ουσιαστικα εχει την εντολη του compilation: javac main.java artifacts.java masterpiece.java paintings.java sculptures.java
 
